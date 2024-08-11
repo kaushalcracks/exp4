@@ -1,0 +1,1 @@
+lets add this file from our local device to the hosting platfrom github via terminal
